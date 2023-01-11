@@ -1,0 +1,23 @@
+//TEST 1:
+Enter a line of text (uppercase letters only): THIS IS COOL
+Display the encoded line
+Here’s the encoded line: 000010111001001 11001001 010001101110110111
+Next decode the above line and display the original line. THIS IS COOL
+
+//TEST 2:
+Enter a line of text (uppercase letters only): I LOVE YOU
+Display the encoded line
+Here’s the encoded line: 1100 101111101001010011 00100110101001
+Next decode the above line and display the original line. I LOVE YOU
+
+//TEST 3:
+Enter a line of text (uppercase letters only): PLEASE GIVE ME A PLUS
+Display the encoded line
+Here’s the encoded line: 1011011011101111101001011 1111001100001010011 00111011 1110 10110110111010011001
+Next decode the above line and display the original line. PLEASE GIVE ME A PLUS
+
+//TEST 4:
+Enter a line of text (uppercase letters only): NO PAIN NO GAIN
+Display the encoded line
+Here’s the encoded line: 10101101 101101111011001010 10101101 111100111011001010
+Next decode the above line and display the original line. NO PAIN NO GAIN
